@@ -9,7 +9,7 @@ This is a professional portfolio showcasing my data analysis projects using Exce
 You can view the live portfolio here:  
 🔗 [Data Analyst Portfolio Live](https://mariamrashad6.github.io/data-analyst-portfolio/)
 
-![Portfolio Preview](images/homepage.png)
+![Portfolio Preview](images/portfolio-cover.png)
 
 ---
 
