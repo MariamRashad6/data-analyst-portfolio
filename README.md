@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-This is a professional portfolio showcasing my data analysis projects using Excel, Power BI, SQL, and Python. The portfolio includes diverse business use cases—from sales insights to HR and marketing analytics—each focused on solving real-world problems through data cleaning, visualization, and interpretation.
+This is a professional portfolio showcasing client data analysis projects using Excel, Power BI, SQL, and Python. The portfolio includes diverse business use cases—from sales insights to HR and marketing analytics—each focused on solving real-world problems through data cleaning, visualization, and interpretation.
 
 ---
 
